@@ -726,6 +726,10 @@ input[type=radio].w3-radio:disabled+.w3-validate {
   clear: both
 }
 
+.w3-third {
+    height: 300px;
+}
+
 .w3-col,
 .w3-half,
 .w3-third,
