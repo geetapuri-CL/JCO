@@ -2185,6 +2185,7 @@ header {
     background-color: green;
     text-align: center;
     
+    
 }
 .orange {
     background-color: orange;
@@ -2198,4 +2199,15 @@ header {
 }
 .no-margin{
     margin:0px;
+}
+
+.row {
+    display: flex;
+    
+}
+
+.column {
+    flex: 50%;
+    
+    
 }
