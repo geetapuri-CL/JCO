@@ -1362,7 +1362,8 @@ input[type=radio].w3-radio:disabled+.w3-validate {
 }
 
 .w3-container {
-  padding: 0.01em 16px
+  padding: 0.01em 16px;
+  height: 350px;    
 }
 
 .w3-panel {
