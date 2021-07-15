@@ -2198,6 +2198,12 @@ header {
     text-align: center;
     
 }
+
+.purple {
+    background-color:blueviolet;
+    text-align: center;
+    
+}
 .no-margin{
     margin:0px;
 }
