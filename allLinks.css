@@ -2202,7 +2202,7 @@ header {
 .purple {
     background-color:blueviolet;
     text-align: center;
-    color:blue;
+ 
     
 }
 
@@ -2210,6 +2210,10 @@ header {
     background-color:aqua;
     text-align: center;
     
+    
+}
+.aqua h6 {
+    color:blue;
 }
 
 .fuchsia {
