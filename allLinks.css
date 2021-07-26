@@ -2209,11 +2209,9 @@ header {
 .aqua {
     background-color:aqua;
     text-align: center;
-    
-    
-}
-.aqua h1 {
     color:blue !important;
+    
+    
 }
 
 .fuchsia {
