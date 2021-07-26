@@ -2212,8 +2212,8 @@ header {
     
     
 }
-.aqua h6 {
-    color:blue;
+.aqua  {
+    color:blue !important;
 }
 
 .fuchsia {
