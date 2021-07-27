@@ -2219,6 +2219,13 @@ header {
  
 }
 
+.aqua h1{
+  font-weight: 300;
+  margin: 10px 0;
+  color: black;    
+ 
+}
+
 
 .fuchsia {
     background-color:fuchsia;
